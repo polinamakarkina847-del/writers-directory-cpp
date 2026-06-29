@@ -1,4 +1,4 @@
-# writers-directory-cpp
+# writers-directory-c
 Console application for storing and searching information about writers.
 ## О проекте
 Электронный справочник писателей, разработанный в рамках учебного проекта.
